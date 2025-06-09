@@ -130,7 +130,7 @@ const ArticleForm: React.FC = () => {
               ) : (
                 <>
                   <Send className="w-5 h-5 mr-2" />
-                  Generate Article
+                  Generate Article!
                 </>
               )}
             </button>
